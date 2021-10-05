@@ -1,5 +1,5 @@
 import React from "react";
-import "./App.css";
+import Chart from "react-google-charts";
 
 function App() {
   return <div className="App"></div>;
